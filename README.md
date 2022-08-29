@@ -2,8 +2,8 @@
 <a href="https://www.youtube.com/watch?v=5q0gJs2eYB4">
   <img src="https://cdn.discordapp.com/attachments/806300597338767450/833106065980915742/02rikkaspin.gif" width="180"/>
 </a>
-<!-- <img src="https://cdn.discordapp.com/attachments/806300597338767450/833107403859820555/02rikkaspinleft.gif" width="200" /> -->
-<!-- ![](https://cdn.discordapp.com/attachments/806300597338767450/833100799361286174/02rikkaspin.gif =200x200) -->
+<!-- <img src="https://cdn.discordapp.com/attachments/897569464684535860/1013727446706696192/02rikkaspinleft.gif" width="200" /> -->
+<!-- ![](https://cdn.discordapp.com/attachments/897569464684535860/1013727446706696192/02rikkaspinleft.gif =200x200) -->
 <!--
 Here are some ideas to get you started:
 
